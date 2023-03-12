@@ -244,3 +244,8 @@
   new PureCounter();
 
 })()
+
+function downloadFile(){
+  window.open("/assets/docs/Luke_Kelley_Resume.pdf");
+}
+
